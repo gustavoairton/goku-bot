@@ -1,0 +1,32 @@
+{
+  "name": "jowb.ly",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/translate": "^2.1.4",
+    "@k3rn31p4nic/google-translate-api": "^1.0.5",
+    "discord.js": "^11.4.2",
+    "enmap": "^4.8.1",
+    "fetch": "^1.1.0",
+    "fs": "0.0.1-security",
+    "google": "^2.1.0",
+    "google-search-scraper": "^0.1.0",
+    "google-translate-api": "^2.3.0",
+    "googleapis": "^38.0.0",
+    "https": "^1.0.0",
+    "node-clima": "^1.0.6",
+    "querystring": "^0.2.0",
+    "r2": "^2.0.1",
+    "random-cat": "^1.0.1",
+    "random-puppy": "^1.1.0",
+    "translate-api": "^0.3.18",
+    "youtube-search": "^1.1.4",
+    "youtube-search-promise": "^1.0.3"
+  }
+}
