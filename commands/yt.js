@@ -1,4 +1,5 @@
 const Discord = require("discord.js");
+const config = require('../config.json')
 
 module.exports.run = (client, message, args) => {
 
@@ -11,7 +12,7 @@ module.exports.run = (client, message, args) => {
  
 var opts = {
   maxResults: 1,
-  key: "AIzaSyD3T7wWUw1gdyr_-jJwHlnvijzTvP_Ua4k"
+  key: config.ytkey
 };
 
 
