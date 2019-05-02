@@ -13,7 +13,7 @@
 
 - Tradutor;
 - Temperatura;
-- Pesquisa no Google e Twitter;
+- Pesquisa no Google e Youtube;
 - Gerador de imagens (gatos, cachorros);
 - Comandos de moderação (ban, mute);
 
